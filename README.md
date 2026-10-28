@@ -1,4 +1,4 @@
-<img src ="https://media1.tenor.com/m/qpXcrqZf6YsAAAAC/moon-horizon.gif" width = "100%"/>
+<img src ="https://media1.tenor.com/m/qpXcrqZf6YsAAAAC/moon-horizon.gif" width = "100%" height = "435"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9370DB&size=35&center=true&width=1000&lines=Ol%C3%A1!%2C+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
