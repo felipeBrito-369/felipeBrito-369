@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left" style="color:#9370DB;">👨‍💻 Sobre mim</h1>
+<h1 align="left" style="color:#FFA836;">👨‍💻 Sobre mim</h1>
 
 ###
 
